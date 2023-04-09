@@ -1,16 +1,7 @@
-# perichron
+# Perichron
 
-A new Flutter project.
+A simple storage interface layer that Astra uses as an intermediary to read 
+and write storage values. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Eventually our goal is to build this into a custom back-end
+package for all of our resources that allows them to share data and talk to each other across a network of user's devices. 
